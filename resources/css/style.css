@@ -1,3 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
 h1 {
-    color: blue;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.top-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
 }
